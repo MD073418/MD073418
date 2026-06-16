@@ -21,4 +21,4 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)]([LinkedIn](https://www.linkedin.com/in/misk-damdoum)
+[LinkedIn](https://www.linkedin.com/in/misk-damdoum)
