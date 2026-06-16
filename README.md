@@ -18,6 +18,6 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
 - **Hardware/Software Co-Design** — embedded systems, FPGA-based design, and RTL development
 - **Power & Energy Systems** — electric power systems and electrified vehicle technologies
 
-## Connect With Me!
+<h1 align="center">Connect With Me!</h1>
 
 [LinkedIn](https://www.linkedin.com/in/misk-damdoum)
