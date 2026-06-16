@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Misk 👋
 
-<!--
-**MD073418/MD073418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering student interested in **EV battery systems** and **hardware/software co-design**.
 
-Here are some ideas to get you started:
+I am currently an intern at **Stellantis** as a **Battery State Estimation Engineer**, where I’m developing my interest in electric vehicle battery diagnostics, modeling, and state estimation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- **LLM-Aided Hardware Design**  
+  Evaluating how large language models perform across increasing RTL/Verilog specification complexity.
+
+- **GUI Development for Open-Source CFD Tools**  
+  Developing a graphical user interface for an open-source turbomachinery blade passage CFD grid generator to make engineering simulation tools more accessible and user-friendly.
+
+## Interests
+
+- EV battery systems
+- Battery diagnostics and state estimation
+- Hardware/software co-design
+- Embedded systems
+- FPGA and digital hardware design
+- Verilog/RTL design
+- Engineering tool development
