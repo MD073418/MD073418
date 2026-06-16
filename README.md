@@ -17,7 +17,6 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
 - **EV Battery Systems** — battery diagnostics, state estimation, and battery management systems
 - **Hardware/Software Co-Design** — embedded systems, FPGA-based design, and RTL development
 - **Power & Energy Systems** — electric power systems and electrified vehicle technologies
-- **Engineering Tools** — building software tools that support engineering design, testing, and analysis
 
 ## Connect With Me!
 
