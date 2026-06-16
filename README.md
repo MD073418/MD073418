@@ -7,10 +7,10 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
 ## Current Projects
 
 - **LLM-Aided Hardware Design**  
-  Evaluating how large language models perform across increasing RTL/Verilog specification complexity.
+  Evaluating how large language models perform across increasing RTL/Verilog specification complexity
 
 - **GUI Development for Open-Source CFD Tools**  
-  Developing a graphical user interface for an open-source turbomachinery blade passage CFD grid generator to make engineering simulation tools more accessible and user-friendly.
+  Developing a graphical user interface for an open-source turbomachinery blade passage CFD grid generator
 
 ## Interests
 
