@@ -10,14 +10,11 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
   Evaluating how large language models perform across increasing RTL/Verilog specification complexity.
 
 - **GUI Development for Open-Source CFD Tools**  
-  Developing a graphical user interface for an open-source turbomachinery blade passage CFD grid generator to make engineering simulation tools more accessible and user-friendly.
+  Developing a graphical user interface for an open-source turbomachinery blade passage CFD grid generator
 
 ## Interests
 
-- EV battery systems
-- Battery diagnostics and state estimation
-- Hardware/software co-design
-- Embedded systems
-- FPGA and digital hardware design
-- Verilog/RTL design
-- Engineering tool development
+- **EV Battery Systems** — battery diagnostics, state estimation, and battery management systems
+- **Hardware/Software Co-Design** — embedded systems, FPGA-based design, and RTL development
+- **Power & Energy Systems** — electric power systems and electrified vehicle technologies
+- **Engineering Tools** — building software tools that support engineering design, testing, and analysis
