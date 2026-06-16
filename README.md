@@ -19,5 +19,5 @@ I am currently an intern at **Stellantis** as a **Battery State Estimation Engin
 - **Power & Energy Systems** — electric power systems and electrified vehicle technologies
 
 <h1 align="center">Connect With Me!</h1>
+<h1 align="center">[LinkedIn](https://www.linkedin.com/in/misk-damdoum)</h1>
 
-[LinkedIn](https://www.linkedin.com/in/misk-damdoum)
